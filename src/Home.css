@@ -1,0 +1,20 @@
+.home__image{
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -150px; /* This is going to make sure that the cards appear about the actual faded line*/
+}
+.home{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+
+}
+.home__row{
+    display: flex;
+    z-index: 1;
+    margin-left:5px;
+    margin-right: 5px;
+}
