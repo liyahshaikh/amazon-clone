@@ -12,7 +12,9 @@
     min-width: 100px;
     width: 100%;
     margin: 10px;
-    padding: 20px;
+    padding: 40px;
+    padding-top: 20px;
+    
     
 
 }
@@ -32,6 +34,9 @@
     height: 100px;
     margin-bottom: 15px;
     
+    width: 100%;
+    
+    
 }
 .product__addToBasket{
     background: #f0c14b;
@@ -41,4 +46,7 @@
     color: #111;
     font-size: 14px;
 
+}
+.product__rating{
+    padding-top: 10px;
 }
