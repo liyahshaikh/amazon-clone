@@ -26,9 +26,19 @@ function Home() {
             </div>
             <div className="home__row">
             
-                <Products />
-                <Products />
-                <Products />
+                <Products 
+                id={9849207502702}
+                image='https://m.media-amazon.com/images/I/71wPLzgLNYL._AC_UL320_.jpg'
+                title='Fitbit Inspire 2 Health & Fitness Tracker with a Free 1-Year Fitbit Premium Trial, 24/7 Heart Rate, Black/Black, One Size (S & L Bands Included)'
+                price={68.95}
+                rating={5}/>
+                <Products 
+                id={2837915918569813}
+                image='https://m.media-amazon.com/images/I/71vvXGmdKWL._AC_UL320_.jpg'
+                title='Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver'
+                price={363.99}
+                rating={4}/>
+
             </div>
             <div className="home__row">
                 <Products />
