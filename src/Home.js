@@ -38,10 +38,24 @@ function Home() {
                 title='Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver'
                 price={363.99}
                 rating={4}/>
+                <Products
+                id={948193492}
+                image='https://m.media-amazon.com/images/I/61udeFo4l-L._AC_UL320_.jpg'
+                title='DOLCE&GABBANA Light Blue Pour Homme Eau de Toilette Spray, 6.7 oz.'
+                price={72.99}
+                rating={5}
+                />
+
+
 
             </div>
             <div className="home__row">
-                <Products />
+                <Products
+                id={2948091284372873}
+                image='https://m.media-amazon.com/images/I/81knTG5IfrL._AC_UY218_.jpg'
+                title='Jane Eyre: Illustrations by Marjolein Bastin (Marjolein Bastin Classics Series)'
+                price={35.99}
+                rating={5} />
                 
                 
             </div>
