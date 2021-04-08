@@ -57,6 +57,10 @@
     color: white;
     
 }
+#header__signInLink{
+    color: white;
+    border-bottom: 1px solid lightgray;
+}
 
 .header__basketCount{
     margin-left: 10px;
